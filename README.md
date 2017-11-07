@@ -3,8 +3,8 @@
 >
 ## Getting Started:
 ```
-•	[Get the project {https://github.com/STWServices/ReactSkeleton.git}]
-•	Clone the project 
+•	[ Get the project { https://github.com/STWServices/ReactSkeleton.git } ]
+•	Clone the project  
 •	Change the current directory to project directory
 •	Install npm dependencies using npm install
 •	Run the project using npm start
