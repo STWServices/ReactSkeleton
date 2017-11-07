@@ -31,6 +31,6 @@ Everything else gets installed via npm install .Here is a list of key dependenci
 •	babel-preset-react
 •	react
 •	react-dom
-•	create-react-class
+•	create-react-class 
 ```
 
