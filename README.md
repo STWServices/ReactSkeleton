@@ -1,6 +1,7 @@
-#React Skeleton App:
+# React Skeleton App:
 >This skeleton is forged with the greatest libraries available to provide a pretty awesome kickstart for your new react-native app.
-##Getting Started:
+>
+## Getting Started:
 ```
 •	[Get the project {https://github.com/STWServices/ReactSkeleton.git}]
 •	Clone the project 
@@ -9,7 +10,7 @@
 •	Run the project using npm start
 •	To see the output in browser go to project directory -> public -> index.html
 ```
-##Prerequisites:
+## Prerequisites:
 You need to install below software’s as a prerequisite for running this project:
 ```
 •	Git
@@ -17,7 +18,7 @@ You need to install below software’s as a prerequisite for running this projec
 •	NodeJS
 •	An IDE: Atom or Sublime Text
 ```
-##Dependencies: 
+## Dependencies: 
 There are few dependencies which you need on your system:
 ```
 •	React-native CLI
